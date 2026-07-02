@@ -1,4 +1,4 @@
-# 📊 Analyse de la Popularité des Langages de Programmation
+#  Analyse de la Popularité des Langages de Programmation
 
 **Projet d'analyse de données — Popularité des langages de programmation (Stack Overflow)**
 
