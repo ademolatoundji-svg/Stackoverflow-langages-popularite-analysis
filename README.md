@@ -34,3 +34,9 @@ Dans le cadre d'un projet pratique de data analyst, j'ai réalisé une analyse d
 
 - `analyse_popularite_langages.R` — Script R complet (chargement, transformation, analyse, visualisation)
 - `evolution_popularite_R.png` — Graphique de l'évolution de la popularité de R sur la période 2008–2020
+
+## Auteur
+
+**Mustakeem Adémola Arèmou LATOUNDJI**
+Étudiant en Master 1 Statistique Appliquée — CIPMA/UAC
+[GitHub](https://github.com/ademolatoundji-svg) · mustakeemlatoundji@gmail.com
